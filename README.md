@@ -21,7 +21,7 @@ Requirements
 
 Facility
 -----------
-1. Clone the repository from GitHub: https://github.com/your_username/repo.git
+1. Clone the repository from GitHub: https://github.com/wvillegas01/SoftwareX.git
 2. Ensure you have Python 3.x installed on your system.
 3. Install the necessary libraries by running the following command in your terminal: pip install pandas numpy matplotlib pickle tensorflow sklearn prettytable
 
